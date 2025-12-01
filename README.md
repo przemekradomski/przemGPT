@@ -17,7 +17,7 @@
 
 ## 🛠 Installation
 ```bash
-git clone https://github.com/Skiper01/przemGPT.git
+git clone https://github.com/przemekradomski/przemGPT.git
 cd your-repo
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
@@ -63,7 +63,7 @@ Commands:
 
 ## 🛠 Instalacja
 ```bash
-git clone https://github.com/Skiper01/przemGPT.git
+git clone https://github.com/przemekradomski/przemGPT.git
 cd twoj-repo
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
@@ -102,4 +102,4 @@ Komendy:
 ---
 
 ✍️ **Author/Autor**: [Przemek]  
-🔗 **Project URL/Strona projektu**: [github.com/Skiper01/przemGPT]
+🔗 **Project URL/Strona projektu**: [github.com/przemekradomski/przemGPT]
